@@ -1,1 +1,1 @@
-Materials for Python for Physicists (160234-WS 22/23)
+Materials for Python for Physicists (160234-WS 23/24)
