@@ -1,4 +1,4 @@
 11.10.23 12.10.23 13.10.23 14.10.23 16.10.23 17.10.23 18.10.23 19.10.23 20.10.23 21.10.23 23.10.23 24.10.23 25.10.23 26.10.23 
 18:24 18:31 19:00 18:45 18:36 17:50 17:40 18:30 17:48 17:50 18:00 17:35 17:55 17:40 
-Observer: Klaus M., Klaus M., Klaus M. Fritz K., Fritz K., Paulina A., Paulina A., Klaus M., Paulina A., Paulina A., Fritz K., Fritz K., Klaus M., Paulina A. 
-humidity too high, HD 204827,  HD 204827, HD 191195, HD 191195, HD 191195, too cloudy,  too cloudy, HD 191195, HD 191195, HD 204827, HD 204827, HD 204827, humidity too high, HD 204827
+Observer: Klaus M., Klaus M., Klaus M., Fritz K., Fritz K., Paulina A., Paulina A., Klaus M., Paulina A., Paulina A., Fritz K., Fritz K., Klaus M., Paulina A. 
+humidity too high, HD 204827,  HD 204827, HD 191195, HD 191195, HD 191195, too cloudy,  too cloudy, HD 191195, HD 191195, HD 204827, HD 204827, HD 204827, humidity too high
